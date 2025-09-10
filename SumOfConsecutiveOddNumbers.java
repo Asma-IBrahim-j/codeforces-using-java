@@ -2,7 +2,6 @@ package sum.of.consecutive.odd.numbers;
 
 import java.util.Scanner;
 
-
 public class SumOfConsecutiveOddNumbers {
 
   
