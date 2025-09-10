@@ -2,7 +2,7 @@ package in.search.of.an.easy.problem;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
