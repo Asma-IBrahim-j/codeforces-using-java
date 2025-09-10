@@ -2,7 +2,7 @@ package suffix.three;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
