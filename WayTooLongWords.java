@@ -2,7 +2,7 @@ package way.too.pkglong.words;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
