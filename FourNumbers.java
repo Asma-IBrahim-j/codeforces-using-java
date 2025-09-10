@@ -2,7 +2,7 @@ package fournumbers;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
