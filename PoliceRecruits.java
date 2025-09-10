@@ -2,7 +2,7 @@ package police.recruits;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
