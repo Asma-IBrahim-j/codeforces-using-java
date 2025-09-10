@@ -2,7 +2,7 @@ package george.and.accommodation;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
