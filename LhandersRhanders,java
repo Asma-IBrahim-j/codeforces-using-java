@@ -1,0 +1,47 @@
+package lhanders.rhanders;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author asmaa
+ */
+public class LhandersRhanders {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Scanner scanner =new Scanner(System.in);
+       int left=scanner.nextInt();
+       int right =scanner.nextInt();
+       int amb=scanner.nextInt();
+       int total=0;
+       
+       if(left==0&&right==0)total=0;
+       else if(left<right){int difference=right-left;
+       if((difference)<amb){amb-=difference;
+       total=right*2;}
+       else  {
+           total=2*(left+amb);
+       amb=0;}
+               }
+     
+       else if(left>right){int difference=left-right;
+       if((difference)<amb){amb-=difference;
+       total=left*2;}
+       else{
+       total=2*(right+amb);
+               amb=0;}}
+       else{total=2*right;}
+       
+       if(amb%2==0&&amb>0)total+=amb;
+       else if(amb%2!=0&&amb>1)total=total+amb-1;
+       
+       
+        System.out.println(total);
+       
+    }
+    
+}
