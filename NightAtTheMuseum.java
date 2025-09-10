@@ -2,7 +2,7 @@ package nightatthemuseum;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
