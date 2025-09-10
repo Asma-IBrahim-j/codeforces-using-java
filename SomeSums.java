@@ -2,7 +2,6 @@ package some.sums;
 
 import java.util.Scanner;
 
-
 public class SomeSums {
 
     
