@@ -2,7 +2,7 @@ package factorial;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
