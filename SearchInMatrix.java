@@ -2,7 +2,7 @@ package search.in.matrix;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
