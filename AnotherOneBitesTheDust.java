@@ -2,7 +2,7 @@ package another.one.bites.the.dust;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
