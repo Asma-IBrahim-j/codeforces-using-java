@@ -2,7 +2,7 @@ package good.number;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
