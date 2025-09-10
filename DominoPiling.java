@@ -2,7 +2,7 @@ package domino.piling;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
