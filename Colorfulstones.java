@@ -2,7 +2,7 @@ package colorfulstones;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
