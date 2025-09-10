@@ -2,7 +2,7 @@ package regular.bracket.sequence;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
