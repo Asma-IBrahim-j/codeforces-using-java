@@ -2,7 +2,7 @@ package digits;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
