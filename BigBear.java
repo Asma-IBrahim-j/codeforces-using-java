@@ -2,7 +2,7 @@ package big.bear;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
