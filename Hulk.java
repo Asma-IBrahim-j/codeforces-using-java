@@ -2,7 +2,7 @@ package hulk;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author asmaa
  */
