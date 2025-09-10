@@ -2,7 +2,6 @@ package summation;
 
 import java.util.Scanner;
 
-
 public class Summation {
 
     
