@@ -3,7 +3,7 @@ package watermelon;
 import java.util.Scanner;
 
 /**
- *
+ 
  * @author asmaa
  */
 public class Watermelon {
